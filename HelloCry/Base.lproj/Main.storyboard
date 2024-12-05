@@ -196,6 +196,11 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="tintColor" red="0.83529412749999998" green="0.79607844350000001" blue="0.8078432083" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                             </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" fixedFrame="YES" image="staroflife.fill" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="8g0-UO-SdK">
+                                <rect key="frame" x="313" y="534.33333333333337" width="19" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="tintColor" red="0.83529412749999998" green="0.79607844350000001" blue="0.8078432083" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                            </imageView>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" fixedFrame="YES" image="staroflife.fill" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="y2C-qO-l74">
                                 <rect key="frame" x="53" y="415.33333333333337" width="19" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -276,15 +281,15 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="tintColor" red="0.83529412749999998" green="0.79607844350000001" blue="0.8078432083" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Last Christmas I gave you my heart but the very next day you gave it away" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4jp-K4-a5Y">
-                                <rect key="frame" x="62" y="639" width="291" height="141"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="It's beginning to look a lot like christmas" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="v4W-Pd-rFU">
+                                <rect key="frame" x="44" y="628" width="304" height="141"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" red="0.99953407049999998" green="0.98835557699999999" blue="0.47265523669999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <color key="highlightedColor" red="0.99953407049999998" green="0.98835557699999999" blue="0.47265523669999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </label>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" fixedFrame="YES" image="staroflife.fill" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="8g0-UO-SdK">
-                                <rect key="frame" x="313" y="534.33333333333337" width="19" height="21"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" fixedFrame="YES" image="staroflife.fill" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="xWM-yl-Cow">
+                                <rect key="frame" x="62" y="545.33333333333337" width="19" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="tintColor" red="0.83529412749999998" green="0.79607844350000001" blue="0.8078432083" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                             </imageView>
